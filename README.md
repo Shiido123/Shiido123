@@ -20,7 +20,7 @@ _I have many projects, but here are the most interesting_
 - **Frameworks & librairies** : Vue, Nuxt, Express, Nitro, TailwindCSS, TypeScript
 - **Outils** : Git, Docker
 - **Bases de données** : PostgreSQL, MySQL, MongoDB
-- **Compétences** : SEO, Auto-hébergement, CI/CD, Création de contenu, Sécurisation des serveurs
+- **Compétences** : SEO, Self-hosting, CI/CD, Content creation, Securing servers
 
 ## ✉️ Contact Me
 
