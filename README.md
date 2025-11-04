@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a young French developer passionate about IT. I love creating things and I spend a lot of time developing my ideas. I am currently in my first year of computer science at university.
+I am a young French developer passionate about IT. I love creating things and I spend a lot of time developing my ideas. I am currently in my second year of computer science at university.
 
 ## My Projects
 
