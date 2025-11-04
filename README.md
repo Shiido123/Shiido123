@@ -12,7 +12,7 @@ _I have many projects, but here are the most interesting_
 
 🧠 I've created [Infinite-quiz](https://infinite-quiz.com/), a website of quizzes with lot of features like quizzes creation with AI and multiplayer mode.
 
-👯‍♀️ I am the owner of [Apprendre Discord](https://apprendre-discord.fr/), a French-speaking project aimed at helping users use Discord. The project has a YouTube channel which has over 2k5 subs.
+👯‍♀️ I am the owner of [Apprendre Discord](https://apprendre-discord.fr/), a French-speaking project aimed at helping users use Discord. The project has a YouTube channel which has over 7k subs.
 
 ## 🛠 Skills
 
