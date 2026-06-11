@@ -9,7 +9,7 @@ I'm currently in my second year of Computer Science at university, while also wo
 
 ## 💼 Work
 
-I currently work with [BrandSearch](https://brandsearch.co/), a market intelligence platform for e-commerce businesses.  
+I currently work with [Brandsearch](https://brandsearch.co/), a market intelligence platform for e-commerce businesses.  
 I mainly contribute to web development, SEO-oriented pages, tools, analytics and content-driven growth.
 
 ## 🧩 My Projects
